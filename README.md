@@ -14,4 +14,4 @@ Inspired by https://github.com/kiwenlau/hadoop-cluster-docker / https://github.c
 
 using my former professor's docker image https://hub.docker.com/r/liliasfaxi/spark-hadoop
 
-:)
+😃
