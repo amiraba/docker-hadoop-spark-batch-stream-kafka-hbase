@@ -9,5 +9,7 @@ This is a combined tutorial including:
 * HBase Shell & Hbase API
 
 Following the update version of https://insatunisia.github.io/TP-BigData/ 
+
 Inspired by https://github.com/kiwenlau/hadoop-cluster-docker / https://github.com/liliasfaxi/hadoop-cluster-docker
+
 using my former professor's docker image https://hub.docker.com/r/liliasfaxi/spark-hadoop
